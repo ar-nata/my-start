@@ -2,9 +2,9 @@
 
 ![](/logo.png)
 
-_NewneuStartUp_ — динамически развивающийся стартап, специализирующийся на поиске и анализе данных с использованием новейших технологий искусственного интеллекта.
-Наши преимущества:
+_NewneuStartUp_ — a dynamically developing startup specializing in data search and analysis using the latest artificial intelligence technologies.
+Our advantages:
 
-- Высокая точность поиска
-- Высокое качество данных
-- Низкая цена
+- High search accuracy
+- High data quality
+- Low price
